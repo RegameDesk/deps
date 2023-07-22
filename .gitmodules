@@ -1,3 +1,6 @@
 [submodule "wil"]
 	path = wil
 	url = https://github.com/microsoft/wil
+[submodule "magic_enum"]
+	path = magic_enum
+	url = https://github.com/Neargye/magic_enum
